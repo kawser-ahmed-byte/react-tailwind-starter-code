@@ -16,6 +16,7 @@ This repository serves as a boilerplate project to help you quickly set up a mod
 ### 1. Clone the repository
 
 git clone https://github.com/your-username/react-tailwind-starter.git
+
 cd frontend
 
 ### 2. Install dependencies
